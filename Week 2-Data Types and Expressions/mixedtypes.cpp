@@ -10,9 +10,9 @@ int main()
     cout<<5.0/2.0<<endl;//2.5 real division
     cout<<5.0/2<<endl;//2.5 implicit cast
 
-    x=5/2;
+    x=5/2;// int
 
-    y=5/2; //2 
+    y=5/2; //2 double
     //two step in evaluation
     //1st step is evaluating the right handside
     //2nd step value is assign the variable
