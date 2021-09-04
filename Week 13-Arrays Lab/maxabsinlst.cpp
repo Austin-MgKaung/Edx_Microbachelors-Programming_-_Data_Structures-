@@ -1,4 +1,4 @@
-int maxabsinlist(int lst[],int size)
+int maxabsinlst(int lst[],int size)
 {
     int max_num = 0 ,threshold = 0;
     for( int j = 0 ; j < size ; j++)

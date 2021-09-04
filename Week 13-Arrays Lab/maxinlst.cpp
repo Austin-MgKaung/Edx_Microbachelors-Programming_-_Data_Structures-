@@ -1,4 +1,4 @@
-int maxinlist(int lst[], int size)
+int maxinlst(int lst[], int size)
 {   
     int max_num = 0 ;
     for (int j = 0 ; j < size ; j++)

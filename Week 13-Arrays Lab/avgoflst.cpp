@@ -1,4 +1,4 @@
-float avgoflist(int lst[], int size)
+float avgoflst(int lst[], int size)
 {
     int sum = 0 ;
     float average ;
