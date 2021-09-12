@@ -1,0 +1,7 @@
+1   100 Daniel James
+2   90  John H. Jones
+3   35  Samuel Jackson
+4   95  George Washinton
+5   50  A. Scott Crossfield
+7   100 E. F. JohnSon
+
