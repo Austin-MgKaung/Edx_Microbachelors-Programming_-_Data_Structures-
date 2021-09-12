@@ -23,7 +23,7 @@ int main()
     while(inFile>>temp.id)
     {
         inFile>>temp.testscore;
-        //inFile.ignore(9999,'\t');
+        inFile.ignore(9999,' ');
         getline(inFile,temp.name);
         vs.push_back(temp);
     }
